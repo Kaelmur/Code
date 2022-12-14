@@ -10,5 +10,4 @@ people_pay = total_bill / people
 
 result = round(people_pay, 2)
 
-
 print(f"Each person should pay:  {result}")
